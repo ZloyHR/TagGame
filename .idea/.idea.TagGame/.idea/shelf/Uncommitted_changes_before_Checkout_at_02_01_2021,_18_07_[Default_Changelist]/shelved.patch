@@ -1,0 +1,297 @@
+Index: Assets/Sprites.meta
+===================================================================
+diff --git a/Assets/Sprites.meta b/Assets/Sprites.meta
+deleted file mode 100644
+--- a/Assets/Sprites.meta	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
++++ /dev/null	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: fe9edb105c8774a42b4bc893ae283653
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Prefabs.meta
+===================================================================
+diff --git a/Assets/Prefabs.meta b/Assets/Prefabs.meta
+deleted file mode 100644
+--- a/Assets/Prefabs.meta	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
++++ /dev/null	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: df74a432b6d119d49b1846c3a5399789
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Scripts.meta
+===================================================================
+diff --git a/Assets/Scripts.meta b/Assets/Scripts.meta
+deleted file mode 100644
+--- a/Assets/Scripts.meta	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
++++ /dev/null	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 3d75268d1ed18d24fb7eb4f3ab999efd
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Sounds.meta
+===================================================================
+diff --git a/Assets/Sounds.meta b/Assets/Sounds.meta
+deleted file mode 100644
+--- a/Assets/Sounds.meta	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
++++ /dev/null	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: f5ebd63f3f998274da2201b29b8f3b07
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: .idea/.idea.TagGame/.idea/contentModel.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ContentModelStore\">\n    <e p=\"C:\\Users\\ZloyHR\\AppData\\Local\\JetBrains\\Rider2020.3\\extResources\" t=\"IncludeRecursive\" />\n    <e p=\"C:\\Users\\ZloyHR\\AppData\\Local\\JetBrains\\Rider2020.3\\resharper-host\\Local\\Transient\\Rider\\v203\\SolutionCaches\\_TagGame.1400624278.00\" t=\"ExcludeRecursive\" />\n    <e p=\"D:\\UnityCode\\TagGame\" t=\"IncludeFlat\">\n      <e p=\"TagGame.sln\" t=\"IncludeFlat\" />\n    </e>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.TagGame/.idea/contentModel.xml b/.idea/.idea.TagGame/.idea/contentModel.xml
+--- a/.idea/.idea.TagGame/.idea/contentModel.xml	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
++++ b/.idea/.idea.TagGame/.idea/contentModel.xml	(date 1609603624172)
+@@ -1,10 +1,17 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ContentModelStore">
+-    <e p="C:\Users\ZloyHR\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+-    <e p="C:\Users\ZloyHR\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_TagGame.1400624278.00" t="ExcludeRecursive" />
+-    <e p="D:\UnityCode\TagGame" t="IncludeFlat">
++    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
++    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_TagGame.1314141965.00" t="ExcludeRecursive" />
++    <e p="$PROJECT_DIR$" t="IncludeRecursive">
++      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
++      <e p="Assets" t="Include">
++        <e p="NewBehaviourScript.cs" t="Include" />
++      </e>
++      <e p="obj" t="ExcludeRecursive" />
++      <e p="Packages" t="ExcludeRecursive" />
+       <e p="TagGame.sln" t="IncludeFlat" />
++      <e p="Temp/bin" t="ExcludeRecursive" />
+     </e>
+   </component>
+ </project>
+\ No newline at end of file
+Index: ProjectSettings/ProjectVersion.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>m_EditorVersion: 2019.4.16f1\nm_EditorVersionWithRevision: 2019.4.16f1 (e05b6e02d63e)\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/ProjectSettings/ProjectVersion.txt b/ProjectSettings/ProjectVersion.txt
+--- a/ProjectSettings/ProjectVersion.txt	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
++++ b/ProjectSettings/ProjectVersion.txt	(date 1609511287568)
+@@ -1,2 +1,2 @@
+-m_EditorVersion: 2019.4.16f1
+-m_EditorVersionWithRevision: 2019.4.16f1 (e05b6e02d63e)
++m_EditorVersion: 2019.4.17f1
++m_EditorVersionWithRevision: 2019.4.17f1 (667c8606c536)
+Index: .idea/.idea.TagGame/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"9feaa0eb-e825-4d9e-9beb-be7b179dd7d1\" name=\"Default Changelist\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1mSuBt2h39eCOOwobDHjFKHEaCr\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"Discover.Launch.Via.Unity\" value=\"true\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n  </component>\n  <component name=\"RunManager\" selected=\"Attach to Unity Editor.Attach to Unity Editor\">\n    <configuration name=\"Attach to Unity Editor &amp; Play\" type=\"UNITY_DEBUG_RUN_CONFIGURATION\" factoryName=\"UNITY_ATTACH_AND_PLAY\" show_console_on_std_err=\"false\" show_console_on_std_out=\"false\" port=\"50000\" address=\"localhost\">\n      <option name=\"allowRunningInParallel\" value=\"false\" />\n      <option name=\"listenPortForConnections\" value=\"false\" />\n      <option name=\"pid\" />\n      <option name=\"selectedOptions\">\n        <list />\n      </option>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"Attach to Unity Editor\" type=\"UNITY_DEBUG_RUN_CONFIGURATION\" factoryName=\"Unity Debug\" show_console_on_std_err=\"false\" show_console_on_std_out=\"false\" port=\"50000\" address=\"localhost\">\n      <option name=\"allowRunningInParallel\" value=\"false\" />\n      <option name=\"listenPortForConnections\" value=\"false\" />\n      <option name=\"pid\" />\n      <option name=\"selectedOptions\">\n        <list />\n      </option>\n      <method v=\"2\" />\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"UnityProjectConfiguration\" hasMinimizedUI=\"true\" />\n  <component name=\"UnityUnitTestConfiguration\" currentTestLauncher=\"EditMode\" />\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"CLEAR_INITIAL_COMMIT_MESSAGE\" value=\"true\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.TagGame/.idea/workspace.xml b/.idea/.idea.TagGame/.idea/workspace.xml
+--- a/.idea/.idea.TagGame/.idea/workspace.xml	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
++++ b/.idea/.idea.TagGame/.idea/workspace.xml	(date 1609513462498)
+@@ -1,7 +1,18 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="9feaa0eb-e825-4d9e-9beb-be7b179dd7d1" name="Default Changelist" comment="" />
++    <list default="true" id="9feaa0eb-e825-4d9e-9beb-be7b179dd7d1" name="Default Changelist" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/.idea.TagGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TagGame/.idea/contentModel.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/.idea.TagGame/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TagGame/.idea/indexLayout.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/.idea.TagGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TagGame/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Prefabs.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Sounds.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Sprites.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -9,6 +20,14 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="HighlightingSettingsPerFile">
++    <setting file="file://$PROJECT_DIR$/Assets/NewBehaviourScript.cs" root0="SKIP_HIGHLIGHTING" />
++  </component>
++  <component name="IdeDocumentHistory">
++    <changedPaths>
++      <option value="$PROJECT_DIR$/Assets/NewBehaviourScript.cs" />
++    </changedPaths>
+   </component>
+   <component name="ProjectId" id="1mSuBt2h39eCOOwobDHjFKHEaCr" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+@@ -17,9 +36,13 @@
+     <option name="showLibraryContents" value="true" />
+   </component>
+   <component name="PropertiesComponent">
++    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35030866" />
++    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+     <property name="Discover.Launch.Via.Unity" value="true" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
++    <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+@@ -42,8 +65,47 @@
+     </configuration>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="9feaa0eb-e825-4d9e-9beb-be7b179dd7d1" name="Default Changelist" comment="" />
++      <created>1609511445134</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1609511445134</updated>
++      <workItem from="1609511447212" duration="644000" />
++      <workItem from="1609512162779" duration="993000" />
++    </task>
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
+   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="origin/master" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="oldMeFiltersMigrated" value="true" />
++  </component>
+   <component name="VcsManagerConfiguration">
+     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+   </component>
+Index: Packages/packages-lock.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\n  \"dependencies\": {\n    \"com.unity.2d.animation\": {\n      \"version\": \"3.2.5\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.2d.common\": \"2.0.2\",\n        \"com.unity.mathematics\": \"1.1.0\",\n        \"com.unity.2d.sprite\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.2d.common\": {\n      \"version\": \"2.0.2\",\n      \"depth\": 1,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.2d.sprite\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.2d.path\": {\n      \"version\": \"2.0.6\",\n      \"depth\": 1,\n      \"source\": \"registry\",\n      \"dependencies\": {},\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.2d.pixel-perfect\": {\n      \"version\": \"2.0.4\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {},\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.2d.psdimporter\": {\n      \"version\": \"2.1.6\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.2d.common\": \"2.0.2\",\n        \"com.unity.2d.animation\": \"3.2.5\",\n        \"com.unity.2d.sprite\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.2d.sprite\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.2d.spriteshape\": {\n      \"version\": \"3.0.14\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.mathematics\": \"1.1.0\",\n        \"com.unity.2d.common\": \"2.0.2\",\n        \"com.unity.2d.path\": \"2.0.6\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.2d.tilemap\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.collab-proxy\": {\n      \"version\": \"1.2.16\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {},\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.ext.nunit\": {\n      \"version\": \"1.0.5\",\n      \"depth\": 1,\n      \"source\": \"registry\",\n      \"dependencies\": {},\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.ide.rider\": {\n      \"version\": \"1.1.4\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.test-framework\": \"1.1.1\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.ide.vscode\": {\n      \"version\": \"1.2.3\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {},\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.mathematics\": {\n      \"version\": \"1.1.0\",\n      \"depth\": 1,\n      \"source\": \"registry\",\n      \"dependencies\": {},\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.test-framework\": {\n      \"version\": \"1.1.19\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.ext.nunit\": \"1.0.5\",\n        \"com.unity.modules.imgui\": \"1.0.0\",\n        \"com.unity.modules.jsonserialize\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.textmeshpro\": {\n      \"version\": \"2.1.1\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {\n        \"com.unity.ugui\": \"1.0.0\"\n      },\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.timeline\": {\n      \"version\": \"1.2.17\",\n      \"depth\": 0,\n      \"source\": \"registry\",\n      \"dependencies\": {},\n      \"url\": \"https://packages.unity.com\"\n    },\n    \"com.unity.ugui\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.ui\": \"1.0.0\",\n        \"com.unity.modules.imgui\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.ai\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.androidjni\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.animation\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.assetbundle\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.audio\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.cloth\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.physics\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.director\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.audio\": \"1.0.0\",\n        \"com.unity.modules.animation\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.imageconversion\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.imgui\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.jsonserialize\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.particlesystem\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.physics\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.physics2d\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.screencapture\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.imageconversion\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.subsystems\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 1,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.jsonserialize\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.terrain\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.terrainphysics\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.physics\": \"1.0.0\",\n        \"com.unity.modules.terrain\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.tilemap\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.physics2d\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.ui\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.uielements\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.imgui\": \"1.0.0\",\n        \"com.unity.modules.jsonserialize\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.umbra\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.unityanalytics\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.unitywebrequest\": \"1.0.0\",\n        \"com.unity.modules.jsonserialize\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.unitywebrequest\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.unitywebrequestassetbundle\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.assetbundle\": \"1.0.0\",\n        \"com.unity.modules.unitywebrequest\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.unitywebrequestaudio\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.unitywebrequest\": \"1.0.0\",\n        \"com.unity.modules.audio\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.unitywebrequesttexture\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.unitywebrequest\": \"1.0.0\",\n        \"com.unity.modules.imageconversion\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.unitywebrequestwww\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.unitywebrequest\": \"1.0.0\",\n        \"com.unity.modules.unitywebrequestassetbundle\": \"1.0.0\",\n        \"com.unity.modules.unitywebrequestaudio\": \"1.0.0\",\n        \"com.unity.modules.audio\": \"1.0.0\",\n        \"com.unity.modules.assetbundle\": \"1.0.0\",\n        \"com.unity.modules.imageconversion\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.vehicles\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.physics\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.video\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.audio\": \"1.0.0\",\n        \"com.unity.modules.ui\": \"1.0.0\",\n        \"com.unity.modules.unitywebrequest\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.vr\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.jsonserialize\": \"1.0.0\",\n        \"com.unity.modules.physics\": \"1.0.0\",\n        \"com.unity.modules.xr\": \"1.0.0\"\n      }\n    },\n    \"com.unity.modules.wind\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {}\n    },\n    \"com.unity.modules.xr\": {\n      \"version\": \"1.0.0\",\n      \"depth\": 0,\n      \"source\": \"builtin\",\n      \"dependencies\": {\n        \"com.unity.modules.physics\": \"1.0.0\",\n        \"com.unity.modules.jsonserialize\": \"1.0.0\",\n        \"com.unity.modules.subsystems\": \"1.0.0\"\n      }\n    }\n  }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Packages/packages-lock.json b/Packages/packages-lock.json
+--- a/Packages/packages-lock.json	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
++++ b/Packages/packages-lock.json	(date 1609511879645)
+@@ -12,23 +12,24 @@
+       "url": "https://packages.unity.com"
+     },
+     "com.unity.2d.common": {
+-      "version": "2.0.2",
++      "version": "2.1.0",
+       "depth": 1,
+       "source": "registry",
+       "dependencies": {
+-        "com.unity.2d.sprite": "1.0.0"
++        "com.unity.2d.sprite": "1.0.0",
++        "com.unity.modules.uielements": "1.0.0"
+       },
+       "url": "https://packages.unity.com"
+     },
+     "com.unity.2d.path": {
+-      "version": "2.0.6",
++      "version": "2.1.0",
+       "depth": 1,
+       "source": "registry",
+       "dependencies": {},
+       "url": "https://packages.unity.com"
+     },
+     "com.unity.2d.pixel-perfect": {
+-      "version": "2.0.4",
++      "version": "2.1.0",
+       "depth": 0,
+       "source": "registry",
+       "dependencies": {},
+Index: .idea/.idea.TagGame/.idea/indexLayout.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ContentModelUserStore\">\n    <attachedFolders />\n    <explicitIncludes>\n      <Path>Assets</Path>\n      <Path>Library/PackageCache/com.unity.2d.animation@3.2.5</Path>\n      <Path>Library/PackageCache/com.unity.2d.common@2.0.2</Path>\n      <Path>Library/PackageCache/com.unity.2d.path@2.0.6</Path>\n      <Path>Library/PackageCache/com.unity.2d.pixel-perfect@2.0.4</Path>\n      <Path>Library/PackageCache/com.unity.2d.psdimporter@2.1.6</Path>\n      <Path>Library/PackageCache/com.unity.2d.spriteshape@3.0.14</Path>\n      <Path>Library/PackageCache/com.unity.collab-proxy@1.2.16</Path>\n      <Path>Library/PackageCache/com.unity.ext.nunit@1.0.5</Path>\n      <Path>Library/PackageCache/com.unity.ide.rider@1.1.4</Path>\n      <Path>Library/PackageCache/com.unity.ide.vscode@1.2.3</Path>\n      <Path>Library/PackageCache/com.unity.mathematics@1.1.0</Path>\n      <Path>Library/PackageCache/com.unity.test-framework@1.1.19</Path>\n      <Path>Library/PackageCache/com.unity.textmeshpro@2.1.1</Path>\n      <Path>Library/PackageCache/com.unity.timeline@1.2.17</Path>\n      <Path>Packages</Path>\n      <Path>ProjectSettings</Path>\n    </explicitIncludes>\n    <explicitExcludes>\n      <Path>.git</Path>\n      <Path>.idea</Path>\n      <Path>Library</Path>\n      <Path>Logs</Path>\n      <Path>Temp</Path>\n      <Path>obj</Path>\n    </explicitExcludes>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.TagGame/.idea/indexLayout.xml b/.idea/.idea.TagGame/.idea/indexLayout.xml
+--- a/.idea/.idea.TagGame/.idea/indexLayout.xml	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
++++ b/.idea/.idea.TagGame/.idea/indexLayout.xml	(date 1609603617469)
+@@ -3,11 +3,13 @@
+   <component name="ContentModelUserStore">
+     <attachedFolders />
+     <explicitIncludes>
+-      <Path>Assets</Path>
+       <Path>Library/PackageCache/com.unity.2d.animation@3.2.5</Path>
+       <Path>Library/PackageCache/com.unity.2d.common@2.0.2</Path>
++      <Path>Library/PackageCache/com.unity.2d.common@2.1.0</Path>
+       <Path>Library/PackageCache/com.unity.2d.path@2.0.6</Path>
++      <Path>Library/PackageCache/com.unity.2d.path@2.1.0</Path>
+       <Path>Library/PackageCache/com.unity.2d.pixel-perfect@2.0.4</Path>
++      <Path>Library/PackageCache/com.unity.2d.pixel-perfect@2.1.0</Path>
+       <Path>Library/PackageCache/com.unity.2d.psdimporter@2.1.6</Path>
+       <Path>Library/PackageCache/com.unity.2d.spriteshape@3.0.14</Path>
+       <Path>Library/PackageCache/com.unity.collab-proxy@1.2.16</Path>
+Index: Packages/manifest.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\n  \"dependencies\": {\n    \"com.unity.2d.animation\": \"3.2.5\",\n    \"com.unity.2d.pixel-perfect\": \"2.0.4\",\n    \"com.unity.2d.psdimporter\": \"2.1.6\",\n    \"com.unity.2d.sprite\": \"1.0.0\",\n    \"com.unity.2d.spriteshape\": \"3.0.14\",\n    \"com.unity.2d.tilemap\": \"1.0.0\",\n    \"com.unity.collab-proxy\": \"1.2.16\",\n    \"com.unity.ide.rider\": \"1.1.4\",\n    \"com.unity.ide.vscode\": \"1.2.3\",\n    \"com.unity.test-framework\": \"1.1.19\",\n    \"com.unity.textmeshpro\": \"2.1.1\",\n    \"com.unity.timeline\": \"1.2.17\",\n    \"com.unity.ugui\": \"1.0.0\",\n    \"com.unity.modules.ai\": \"1.0.0\",\n    \"com.unity.modules.androidjni\": \"1.0.0\",\n    \"com.unity.modules.animation\": \"1.0.0\",\n    \"com.unity.modules.assetbundle\": \"1.0.0\",\n    \"com.unity.modules.audio\": \"1.0.0\",\n    \"com.unity.modules.cloth\": \"1.0.0\",\n    \"com.unity.modules.director\": \"1.0.0\",\n    \"com.unity.modules.imageconversion\": \"1.0.0\",\n    \"com.unity.modules.imgui\": \"1.0.0\",\n    \"com.unity.modules.jsonserialize\": \"1.0.0\",\n    \"com.unity.modules.particlesystem\": \"1.0.0\",\n    \"com.unity.modules.physics\": \"1.0.0\",\n    \"com.unity.modules.physics2d\": \"1.0.0\",\n    \"com.unity.modules.screencapture\": \"1.0.0\",\n    \"com.unity.modules.terrain\": \"1.0.0\",\n    \"com.unity.modules.terrainphysics\": \"1.0.0\",\n    \"com.unity.modules.tilemap\": \"1.0.0\",\n    \"com.unity.modules.ui\": \"1.0.0\",\n    \"com.unity.modules.uielements\": \"1.0.0\",\n    \"com.unity.modules.umbra\": \"1.0.0\",\n    \"com.unity.modules.unityanalytics\": \"1.0.0\",\n    \"com.unity.modules.unitywebrequest\": \"1.0.0\",\n    \"com.unity.modules.unitywebrequestassetbundle\": \"1.0.0\",\n    \"com.unity.modules.unitywebrequestaudio\": \"1.0.0\",\n    \"com.unity.modules.unitywebrequesttexture\": \"1.0.0\",\n    \"com.unity.modules.unitywebrequestwww\": \"1.0.0\",\n    \"com.unity.modules.vehicles\": \"1.0.0\",\n    \"com.unity.modules.video\": \"1.0.0\",\n    \"com.unity.modules.vr\": \"1.0.0\",\n    \"com.unity.modules.wind\": \"1.0.0\",\n    \"com.unity.modules.xr\": \"1.0.0\"\n  }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Packages/manifest.json b/Packages/manifest.json
+--- a/Packages/manifest.json	(revision c0eefc444c088d2b6fb4ed550107ab919ede7960)
++++ b/Packages/manifest.json	(date 1609511214391)
+@@ -1,7 +1,7 @@
+ {
+   "dependencies": {
+     "com.unity.2d.animation": "3.2.5",
+-    "com.unity.2d.pixel-perfect": "2.0.4",
++    "com.unity.2d.pixel-perfect": "2.1.0",
+     "com.unity.2d.psdimporter": "2.1.6",
+     "com.unity.2d.sprite": "1.0.0",
+     "com.unity.2d.spriteshape": "3.0.14",

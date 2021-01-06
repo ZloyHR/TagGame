@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Box : MonoBehaviour
 {
+    [SerializeField]
+    private GameObject _field;
     private Vector2 _prevCursor;
 
     private void Awake()
@@ -26,4 +28,13 @@ public class Box : MonoBehaviour
 
         _prevCursor = currentCursor;
     }
+
+    private bool checkForCollision()
+    {
+        
+        return true;
+    }
+
+    
+
 }
