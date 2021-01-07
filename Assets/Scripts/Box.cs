@@ -8,11 +8,15 @@ public class Box : MonoBehaviour
     private GameObject _field;
     private Vector2 _prevCursor;
 
+    public int xId;
+    public int yId;
+
     private void Awake()
     {
         _prevCursor = Vector2.negativeInfinity;
     }
 
+    
 
     private void OnMouseDown()
     {
