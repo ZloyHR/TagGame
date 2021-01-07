@@ -16,7 +16,13 @@ public class Box : MonoBehaviour
         _prevCursor = Vector2.negativeInfinity;
     }
 
-    
+    private void OnMouseUp()
+    {
+        Field field = transform.parent.GetComponent<Field>();
+        Vector3 pos = field.GridToWorld(field.WorldToGrid(transform.localPosition));
+        pos.z = transform.localPosition.z;
+        transform.localPosition = pos;
+    }
 
     private void OnMouseDown()
     {
