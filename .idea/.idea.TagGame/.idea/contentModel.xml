@@ -8,6 +8,8 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="Box.cs" t="Include" />
+          <e p="BoxEmpty.cs" t="Include" />
+          <e p="DragMode.cs" t="Include" />
           <e p="Field.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
