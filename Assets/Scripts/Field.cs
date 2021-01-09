@@ -22,20 +22,20 @@ public class Field : MonoBehaviour
         foreach (Transform child in transform)
         {
             Box current = child.GetComponent<Box>();
-            current.GetComponent<SpriteRenderer>().color = Random.ColorHSV();
+            //current.GetComponent<SpriteRenderer>().color = Random.ColorHSV();
             _boxes[current.gridPos.x, current.gridPos.y] = current;
             
         }
 
-        int id = Random.Range(0, cellCount * cellCount);
-        var color = _boxes[id / cellCount, id % cellCount].GetComponent<SpriteRenderer>().color;
-        color.a = 0;
-        _boxes[id / cellCount, id % cellCount].GetComponent<SpriteRenderer>().color = color;
-
-        Box temp = _boxes[id / cellCount, id % cellCount].gameObject.AddComponent<BoxEmpty>();
-        Destroy(_boxes[id / cellCount, id % cellCount]);
-        _boxes[id / cellCount, id % cellCount] = temp;
-        temp.gridPos = new Vector2Int(id / cellCount, id % cellCount);
+        // int id = Random.Range(0, cellCount * cellCount);
+        // var color = _boxes[id / cellCount, id % cellCount].GetComponent<SpriteRenderer>().color;
+        // color.a = 0;
+        // _boxes[id / cellCount, id % cellCount].GetComponent<SpriteRenderer>().color = color;
+        //
+        // Box temp = _boxes[id / cellCount, id % cellCount].gameObject.AddComponent<BoxEmpty>();
+        // Destroy(_boxes[id / cellCount, id % cellCount]);
+        // _boxes[id / cellCount, id % cellCount] = temp;
+        // temp.gridPos = new Vector2Int(id / cellCount, id % cellCount);
         
         BoxCollider2D collider = GetComponent<BoxCollider2D>();
         float scaleValue = _fieldSize / collider.size.x;

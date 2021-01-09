@@ -20,13 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9feaa0eb-e825-4d9e-9beb-be7b179dd7d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BoxEmpty.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BoxEmpty.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/DragMode.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/DragMode.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TagGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TagGame/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BoxCorner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BoxCorner.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TagGame/.idea/shelf/Uncommitted_changes_before_Checkout_at_02_01_2021,_18_07_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TagGame/.idea/shelf/Uncommitted_changes_before_Checkout_at_02_01_2021__18_07__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TagGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TagGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Box.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Box.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Field.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Field.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +51,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Box.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BoxEmpty.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Field.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BoxCorner.cs" />
       </list>
     </option>
   </component>
@@ -130,17 +130,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Started box grid" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started box grid" />
+    <MESSAGE value="Added BoxEmpty.cs&#10;Added one-axis drag&#10;Added borders for dragging" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added BoxEmpty.cs&#10;Added one-axis drag&#10;Added borders for dragging" />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1416" height="676" key="VCS.FileHistoryDialog" timestamp="1610126483194">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="92" y="92" width="1416" height="676" key="VCS.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1610126483194" />
-    <state x="392" y="150" key="Vcs.Push.Dialog.v2" timestamp="1610039563081">
+    <state x="392" y="150" key="Vcs.Push.Dialog.v2" timestamp="1610126993894">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="150" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610039563081" />
+    <state x="392" y="150" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610126993894" />
     <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610118744746">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -154,10 +155,10 @@
           <line>31</line>
           <properties documentPath="D:\Projects\Unity\TagGame\Assets\Scripts\Field.cs" initialLine="30">
             <startOffsets>
-              <option value="887" />
+              <option value="898" />
             </startOffsets>
             <endOffsets>
-              <option value="894" />
+              <option value="905" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="1" />
